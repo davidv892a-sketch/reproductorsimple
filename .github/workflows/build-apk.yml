@@ -3,7 +3,7 @@ name: Compilar APK Reproductor
 on:
   push:
     branches: [ "main", "master" ]
-  workflow_dispatch:
+  workflow_dispatch: # Permite ejecutar la compilación manualmente en cualquier momento
 
 jobs:
   build:
