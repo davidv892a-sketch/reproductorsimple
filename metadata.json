@@ -1,0 +1,6 @@
+{
+  "name": "Reproductor MP3 Profesional",
+  "description": "Reproductor de música MP3 profesional con ecualizador de 10 bandas, visualizador de espectro audio, booster de bajos, sincronización de letras y modo auto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
